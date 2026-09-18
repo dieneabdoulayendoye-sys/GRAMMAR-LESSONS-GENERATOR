@@ -1,0 +1,6 @@
+{
+  "name": "English Grammar Senegal - BFEM & BAC",
+  "description": "Interactive English grammar platform aligned with the Senegalese national curriculum from 6ème to Terminale, featuring BFEM and Baccalauréat exam preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
